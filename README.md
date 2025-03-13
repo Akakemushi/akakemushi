@@ -9,7 +9,15 @@
   <li>Run the most amazing D&D campaign of all time</li>
 </ul>
 
-
+<h3>Want to know what I work with? Here's the languages and tools that I have experience with.</h3>
+<ul>
+  <li>Backend Languages: Ruby | Python | PHP</li>
+  <li>Frontend Languages: HTML | CSS | JavaScript</li>
+  <li>Web Frameworks: Ruby on Rails | Django</li>
+  <li>AI Tools: ChatGPT API | Dall-E API</li>
+  <li>Databases: MySQL | PostgreSQL</li>
+  <li>Other Tools: Redis | Sidekiq</li>
+</ul>
 
 
 <!--
